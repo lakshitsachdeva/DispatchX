@@ -16,6 +16,7 @@ generates commands; it never starts a simulator or cloud resources. Complete the
 delivery before running optional load.
 
 - [Exact click/say/observe runbook](docs/DEMO-RUNBOOK.md)
+- [Beginner cloud guide: how the app and AWS architecture work](docs/BEGINNER-CLOUD-GUIDE.md)
 - [Implementation progress, test evidence and measured limits](docs/SCALABILITY-PROGRESS.md)
 - **`/dispatch/system`**: authenticated application signals with freshness, unknown/error
   states, pause/retry, and bounded browser history. Its Celery ready-queue count is not SQS
